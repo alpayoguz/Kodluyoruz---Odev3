@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+h1,h2{
+    font-size: 35px;
+    color:#ED0404;
+    margin-left: 10px;
+
+}
+
+.font-size18{
+    font-size: 18px;
+}
+
+.color-blue{
+    color:#0040F2;
+}
+
+.color-green{
+    color:#0CF200;
+}
+
+.color-red{
+    color:#FB0000;
+}
+
+.color-white{
+    color:#F0F6E5;
+}
+
+#index-pics{
+    margin-left: 500px;
+}
+
+#index-nav{
+    color:#F0F6E5 ;
+}
+
